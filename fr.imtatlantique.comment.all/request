@@ -1,2 +1,1 @@
-
 GET https://api.mlab.com/api/1/databases/sedeladb/collections/commentaires/?apiKey={{apiKey}}
